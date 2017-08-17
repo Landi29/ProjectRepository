@@ -1,0 +1,9 @@
+Hostname;Xpath
+www.bbc.com;//*[@id="page"]/div[2]/div[2]/div/div[1]/div[1]/div[2]
+www.theguardian.com;//*[@id="article"]/div[4]/div/div[1]/div[5]
+news.sky.com;/html/body/div[1]/div[2]/div[1]
+www.washingtonpost.com;//*[@id="article-body"]/article
+www.cbsnews.com;//*[@id="article-entry"]/div[2]
+abcnews.com.co;/html/body
+www.breibart.com;//*[@id="MainW"]
+www.huffingtonpost.com;//*[@id="main"]

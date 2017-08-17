@@ -1,0 +1,38 @@
+In the run-up to the first round of the French presidential election, the country’s social media was awash in press reports of dubious origin. 
+
+One example: Emmanuel Macron’s run was being financed by his former employer Rothschild & Co. and aimed solely at defending capitalism. Another gem asserted that the founder of Marine Le Pen’s right-wing National Front is growing marijuana on his country estate.
+ 
+With France due to elect a new president May 7 and nationalist candidate Marine Le Pen making a strong showing in the polls, efforts by Facebook Inc. to Twitter Inc. to stop fake news from spreading on their platforms are being tested.
+ 
+“We see foreign meddling, people who offer their own version of the facts, and users who contest the veracity of reports by well-established media outlets,” said Jonathan Deitch, Chief Executive Officer of Bakamo.Social, a consulting firm that estimates a quarter of the links shared on social networks about the French elections probably point to fake news. The report, based on 8 million links from 800 sites between November and April, showed as many as 50 percent of sources of fake news were linked to Russian websites or accounts.
+ 
+France’s political establishment started expressing concerns that fake news might help propel Le Pen to a populist triumph months before the first round of the French vote on April 23. Voices amplified as Macron was hit by a fake news campaign earlier this year, and a U.S. senator accused Russia of trying to influence events in France among other places. Le Pen meanwhile is Russia’s favorite in the race, with many Russian officials regarding Macron as the candidate most hostile to their country’s interests.
+
+Voter Impact
+
+With elections also coming up in Germany, the U.K., and possibly Italy later this year, internet giants are keen not to have a re-run of the U.S. election, during which platforms were accused of swaying the election by failing to keep tabs on fake news stories. 
+
+Facebook, which is France’s most popular social media platform ahead of YouTube and Twitter according to pollster Harris Interactive, has made technical tweaks, teamed up with local press and invested in fact-checking tools to counter hoaxes.
+ 
+A made-up screenshot of a tweet that showed the Russian government saying “We’ll help Marine Le Pen win the elections”, and several stories about Macron plotting a new tax on homeowners, were among the fakes recently spotted by CrossCheck, a collaborative project backed by Facebook and Google and involving journalists from local news organizations to verify online content.
+ 
+The National Front’s Treasurer Wallerand de Saint-Just last month posted a screenshot of a poll tweeted by daily newspaper Le Figaro, doubling his candidate’s actual score and tweeting the fake to show her massively in the lead. A CrossCheck article responded, saying the screenshot was fake.
+
+Representatives for Le Pen and for Macron didn’t respond to requests for comment. 
+A representative for Facebook in Paris pointed to the company’s recent initiatives on fighting fake news. Campaign financing by companies such as Rothschild is forbidden under French law.
+
+While it’s hard to spot who exactly gets these rumors started, it’s easier to track who is most active at spreading them, said Jeremie Mani, chief executive officer of Netino By Webhelp, a firm that specializes in moderating online user comments, including for several French media organizations.
+ 
+“Historically Le Pen supporters have been the most active and most organized on social networks -- they feel mainstream media doesn’t give them a voice, so they’ve found alternatives to express themselves,” Mani said. “140 characters is the perfect format for populism, because it’s easier to criticize Europe in a few words than get into complicated demonstrations.”
+ 
+With more than 2.8 million followers on Twitter and Facebook, the anti-immigration, anti-euro National Front candidate dwarfs Macron, with just over 1 million followers.
+
+n the run-up to the elections, Facebook has been deleting fake accounts and feeding users in France a variety of extras to help with fact-checking. In mid-April, the company said it made technical upgrades that allowed it to delete some 30,000 fake accounts in France. The changes are aimed at limiting the spread of “material generated through inauthentic activity, including spam, misinformation, or other deceptive content,” it said.
+ 
+Around the same time, full-page print ads with Facebook’s logo started appearing in local newspapers like Le Monde, Liberation and Les Echos, providing readers with tips on detecting fishy content online. A how-to guide to spotting fake news was also pushed to Facebook users.
+ 
+A tool comparing the campaign promises of all elections candidates also popped up online to Facebook subscribers in April. The module, called “Perspectives”, offered a scan-through of proposals by election candidates through 18 themes, from taxes to the environment, as defined by research lab Cevipof and filled out by the politicians. It appeared anytime someone clicked on a link to a story about politics.
+ 
+While “Perspectives” so far has been tailored to France, Facebook has been duplicating other initiatives across markets. At its F8 developer conference, it said the new tool proved popular in France and the company may spread it elsewhere.
+  
+With a clutch of volatile European elections coming up over the next few months, Facebook needs to prove it can stem the tide of bogus stories. But not all countries are created equal regarding their enthusiasm for fake news. In the run-up to elections, the French tend to share more junk news online than the Germans, research from Oxford University has shown, but both share fewer fake news stories per person than U.S. voters during the 2016 election.
